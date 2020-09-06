@@ -1,0 +1,14 @@
+.entry-content > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) {
+    max-width: 100% !important;
+}
+.singular .entry-header {
+    padding: 3rem 0 !important;
+}
+ul.pagination {
+    width: 100% !important; 
+}
+.pagination>li {
+    display: inline;
+    float: left !important;
+	margin: 0 !important;
+}
